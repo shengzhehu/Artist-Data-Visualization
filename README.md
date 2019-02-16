@@ -1,2 +1,2 @@
 # Artist-Data-Visualization
-### 'Convert' Tableau pictures to Python
+### 'Convert' Tableau pictures to Python version
